@@ -1,7 +1,7 @@
 # PZ41-Sandbox-file-with-descriptions
 The main point of this repo is to provide useful descriptions while editing Project Zomboid's sandbox file.
 
-For simgleplayer on Windows, drop this CFG file into
+For singleplayer on Windows, drop this CFG file into
 C:\Users\%USERNAME%\Zomboid\Sandbox Presets
 
 The file contains Project Zomboid's default values for the Apocalypse setting.
